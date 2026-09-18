@@ -1,6 +1,6 @@
 # Home
 
-## Hello, new student!
+## Hello, I am Vho
 
 ![](./images/week01/assignment-photo.jpg)
 
